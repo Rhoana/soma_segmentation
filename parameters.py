@@ -15,7 +15,7 @@ batch_size = 4
 val_data_size = 384
 
 ## parameters for prediction ##
-ckpt_restore = 'ckpt/-40'
+ckpt_restore = 'trained_model/-40'
 
 # filepaths
 train_seg_in_filepath = "Training_Data/JWR_segmentation.h5"
